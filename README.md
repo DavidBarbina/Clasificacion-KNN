@@ -1,5 +1,7 @@
 # KNN aplicado a recursos humanos.
 
+### Se considera la tabla del link: https://drive.google.com/file/d/1NlY7I_XVgZWCj6A-BJKlL2076WKOyPqc/view 
+
 ### El objetivo es analizar porqué los empleados deciden irse con la competencia y éste podría ser un desafío serio para un departamento de recursos humanos, el cual se podría abordar mediante modelos predictivos de Machine Learning. 
 
 ### Se carga la base de datos en Python y se asegura de re-codificar las variables categóricas de manera pertinente antes de iniciar su análisis. 
